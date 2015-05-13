@@ -18,7 +18,7 @@ var options = {
       port: 443,
       path: '/2010-04-01/Accounts/AC748702fc738d6f16455dd418b93a67d1/Messages.json',
       method: 'POST',
-      auth: 'AC748702fc738d6f16455dd418b93a67d1:5b6293592a8c4a8e6ba2a36ea6ce1ec8',
+      auth: '8C748702fc738d6f16455dd418b93a67d1:5b6293592a8c4a8e6ba2a36ea6ce1ec8',
       headers: {
           'Content-Type': 'application/x-www-form-urlencoded',
           'Content-Length': data_string.length
